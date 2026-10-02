@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "VolleyD3QN-Course-Planner: dueling double deep Q-network planning of college volleyball training courses"
+authors:
+  - family-names: "Bian"
+    given-names: "Yonghong"
+    affiliation: "Inner Mongolia Minzu University"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/<github-user>/VolleyD3QN-Course-Planner"
+doi: "10.5281/zenodo.XXXXXXX"
+date-released: 2026-10-01

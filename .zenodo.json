@@ -1,0 +1,7 @@
+{
+  "title": "VolleyD3QN-Course-Planner: dueling double deep Q-network planning of college volleyball training courses",
+  "upload_type": "software",
+  "creators": [{"name": "Bian, Yonghong", "affiliation": "Inner Mongolia Minzu University"}],
+  "license": "MIT",
+  "keywords": ["reinforcement learning", "D3QN", "volleyball", "physical education", "training load", "simulation"]
+}
